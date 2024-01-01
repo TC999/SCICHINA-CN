@@ -66,7 +66,7 @@
 ### Infomation（信息科学）
 |编号|英文名|中文译名|贡献者|
 |:---:|:---:|:---:|:---:|
-|第64卷 179105:1–179105:3|[Predicting accepted pull requests in GitHub](Information(信息)\Predicting-accepted-pull-requests-in-GitHub\EN-US.pdf)|[在GitHub中预测被接受的拉取请求](Information(信息)\Predicting-accepted-pull-requests-in-GitHub\ZH-CN.md)|[TC999](https://github.com/TC999)|
+|第64卷 179105:1–179105:3|[Predicting accepted pull requests in GitHub](Information(信息)/Predicting-accepted-pull-requests-in-GitHub/EN-US.pdf)|[在GitHub中预测被接受的拉取请求](Information(信息)/Predicting-accepted-pull-requests-in-GitHub/ZH-CN.md)|[TC999](https://github.com/TC999)|
 
 ### Material（材料科学）
 |编号|英文名|中文译名|贡献者|
