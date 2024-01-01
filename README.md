@@ -1,4 +1,11 @@
 # SCICHINA-CN
+
+![GitHub forks](https://img.shields.io/github/forks/TC999/SCICHINA-CN?label=%E5%A4%8D%E5%88%BB&style=flat)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/TC999/SCICHINA-CN?logo=github&label=%E6%8B%89%E5%8F%96%E8%AF%B7%E6%B1%82)
+![GitHub Repo stars](https://img.shields.io/github/stars/TC999/SCICHINA-CN?style=flat&logo=Github&label=%E6%98%9F%E6%A0%87)
+![GitHub License](https://img.shields.io/github/license/TC999/SCICHINA-CN?label=%E8%AE%B8%E5%8F%AF%E8%AF%81)
+
+
 本仓库用于收录中国科学英文杂志上的论文/文章的中文翻译，持续更新中
 
 旨在帮助看不懂英文文献的人快速查找中文翻译
