@@ -30,7 +30,7 @@
      ![Alt text](image/im2.png)
        
        下载完成后解压即可
-  2) Git命令行：确保已安装[Git](https://git-scm.com/downloads)，在保存位置右键选择“在终端中打开”，输入以下命令并回车
+  2) [Git](https://git-scm.com/downloads)命令行：终端输入以下命令并回车
       ```shell
       git clone https://github.com/TC999/SCICHINA-CN.git
       ```
@@ -38,7 +38,7 @@
 - Android
   1) 浏览器下载：直接点击“代码”>>>下载ZIP压缩包
   2) Git命令行：
-    - 需要安装Termux
+    - 需要安装[Termux](https://github.com/termux/termux-app)
     - 安装git
        ```
        pkg install git
