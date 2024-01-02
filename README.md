@@ -21,7 +21,7 @@
 ## **本地阅读**
 - **注1**：需要能够渲染`Markdown`的编辑器，例如[VSCode](https://code.visualstudio.com/)、[Obsidian](https://obsidian.md/)，需要安装能够渲染`LaTex`公式的插件
 - **注2**：尽量不要使用Github安卓端打开，可能直接不显示（如下图）
-![Alt text](image\screenshot1.png)
+![Alt text](image/screenshot1.png)
 1. 下载仓库到本地
 - Windows、Linux、MacOS
   1) 浏览器下载：直接点击“代码”>>>下载ZIP压缩包
