@@ -1,6 +1,6 @@
 # SCICHINA-CN
 
-![GitHub forks](https://img.shields.io/github/forks/TC999/SCICHINA-CN?label=%E5%A4%8D%E5%88%BB&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/TC999/SCICHINA-CN?label=%E5%A4%8D%E5%88%BB&style=flat&logo=github)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/TC999/SCICHINA-CN?logo=github&label=%E6%8B%89%E5%8F%96%E8%AF%B7%E6%B1%82)
 ![GitHub Repo stars](https://img.shields.io/github/stars/TC999/SCICHINA-CN?style=flat&logo=Github&label=%E6%98%9F%E6%A0%87)
 ![GitHub License](https://img.shields.io/github/license/TC999/SCICHINA-CN?label=%E8%AE%B8%E5%8F%AF%E8%AF%81)
@@ -34,7 +34,7 @@
       ```shell
       git clone https://github.com/TC999/SCICHINA-CN.git
       ```
-  3) Github Desktop（注：需要Github账户）
+
 - Android
   1) 浏览器下载：直接点击“代码”>>>下载ZIP压缩包
   2) Git命令行：
@@ -59,7 +59,7 @@
        ```
 2. 使用阅读器或编辑器打开整个文件夹，打开`README.md`
 3. 查找文献：`Crtl`+`F`查找并搜索英文名称（如有作者姓名记得**删除**），
-4. 点击英文名跳转原文（一般为PDF格式，不推荐）；点击中文名跳转中文翻译版本
+4. 点击英文名跳转原文（一般为PDF格式，不推荐）；点击中文名跳转中文翻译版本，如果搜索不到则为没收录，或删减词句重试
 
 ## 已收录内容
 
@@ -67,6 +67,7 @@
 |编号|英文名|中文译名|贡献者|
 |:---:|:---:|:---:|:---:|
 |第64卷 179105:1–179105:3|[Predicting accepted pull requests in GitHub](Information(信息)/Predicting-accepted-pull-requests-in-GitHub/EN-US.pdf)|[在GitHub中预测被接受的拉取请求](Information(信息)/Predicting-accepted-pull-requests-in-GitHub/ZH-CN.md)|[TC999](https://github.com/TC999)|
+|未知|[What Can We Learn from Quality Assurance Badges in Open-Source Softwar](Information(信息)/What-Can-We-Learn-from-Quality-Assurance-Badges-in-Open-Source-Software/EN-US.pdf)|[我们能从开源软件的质量保证标志(QA)中学到什么？](Information(信息)/What-Can-We-Learn-from-Quality-Assurance-Badges-in-Open-Source-Software/ZH-CN.md)|[TC999](https://github.com/TC999)|
 
 ### Material（材料科学）
 |编号|英文名|中文译名|贡献者|
