@@ -9,6 +9,7 @@
 
 [![BILIBILI](https://img.shields.io/badge/-Bilibili-FF69B4?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/648765401)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sPT7RBbn)
+[![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SCICHINA_CN)
 
 本仓库用于收录中国科学英文杂志上的论文/文章的中文翻译，持续更新中
 
@@ -22,6 +23,8 @@
   - [本地阅读](#本地阅读)
 - [已收录内容](#已收录内容)
 - [贡献](#贡献)
+- [赞助](#赞助)
+- [许可证](#许可证)
 
 ## 使用方法
 ### **浏览器阅读**
@@ -105,8 +108,9 @@
   ```
   [修正]Predicting accepted pull requests in GitHub(在GitHub中预测被接受的拉取请求)
   ```
-
+## 贡献者（由 Github Actions 自动生成）
+（略）
 ## 赞助
-
+（略）
 ## 许可证
 本项目采用[GPLv3许可证](LICENSE)。
